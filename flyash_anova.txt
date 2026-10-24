@@ -1,0 +1,5 @@
+               Df Sum Sq Mean Sq F value Pr(>F)  
+flyash_group    1   1143  1143.1   4.108 0.0429 *
+Residuals    1028 286030   278.2                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
